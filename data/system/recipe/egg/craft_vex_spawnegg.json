@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": [
+      "minecraft:elytra"
+    ],
+    "b": [
+      "minecraft:egg"
+    ]
+  },
+  "result": {
+    "id": "minecraft:vex_spawn_egg"
+  }
+}

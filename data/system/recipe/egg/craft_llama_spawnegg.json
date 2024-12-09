@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": [
+      "minecraft:white_carpet"
+    ],
+    "b": [
+      "minecraft:egg"
+    ]
+  },
+  "result": {
+    "id": "minecraft:llama_spawn_egg"
+  }
+}

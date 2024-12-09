@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": [
+      "minecraft:cooked_porkchop"
+    ],
+    "b": [
+      "minecraft:egg"
+    ]
+  },
+  "result": {
+    "id": "minecraft:zoglin_spawn_egg"
+  }
+}

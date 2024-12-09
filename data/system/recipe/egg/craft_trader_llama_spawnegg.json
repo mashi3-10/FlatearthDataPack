@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": [
+      "minecraft:blue_carpet"
+    ],
+    "b": [
+      "minecraft:egg"
+    ]
+  },
+  "result": {
+    "id": "minecraft:trader_llama_spawn_egg"
+  }
+}

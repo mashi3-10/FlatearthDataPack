@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": [
+      "minecraft:bell"
+    ],
+    "b": [
+      "minecraft:egg"
+    ]
+  },
+  "result": {
+    "id": "minecraft:ravager_spawn_egg"
+  }
+}
